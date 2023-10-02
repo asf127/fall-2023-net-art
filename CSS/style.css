@@ -1,1 +1,28 @@
+body{
+  background-color: darkseagreen;
+  font-family: helvetica;
+  text-align: center;
+}
 
+h1{
+  font-style: italic;
+  padding-top: 10px;
+}
+
+p{
+  font-size: 45px;
+}
+
+.title{
+  font-weight: 700;
+}
+
+#theend{
+  color: darkgreen;
+}
+
+div{
+  border: 10px solid black;
+  padding: 50px;
+  margins: 80px; 
+}
