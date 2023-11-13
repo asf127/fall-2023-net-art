@@ -1,0 +1,15 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+p {
+  color: Azure;
+  text-align: center;
+  padding-top: 200px;
+  font-size: 40px;
+  font-variant: small-caps;
+  font-weight: bold;
+}
