@@ -1,0 +1,54 @@
+body{
+  font-family: Courier, monospace;
+  background-image: linear-gradient(DarkSlateGray, Teal, LightSeaGreen);
+  background-repeat: no-repeat;
+  height: 100%;
+  margin: 0;
+  background-attachment: fixed;
+}
+
+h1{
+  text-align: center;
+  color: White;
+}
+
+h2{
+  text-align: center;
+  color: GhostWhite;
+}
+
+p{
+  margin-top: -10px;
+  color: MintCream;
+  padding: 20px;
+  text-align: justify;
+}
+
+div.container{
+  margin: 20px;
+  padding: 10px;
+  border-style: double;
+  border-color: White;
+  border-width: 5px;
+  background-color: DarkSlateGray;
+}
+
+a{
+  color: LightBlue;
+}
+
+ul{
+  list-style: square;
+  color: White;
+  display: inline-block;
+}
+
+div.list{
+  text-align: center;
+  margin-left: -35px;
+  margin-top: -20px;
+}
+
+canvas {
+  display: block;
+}
